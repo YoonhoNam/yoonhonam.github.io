@@ -1,44 +1,8 @@
-## my publications
+[home](index.md)
+[readme](README.md)
+[publications](PUBLICATIONS.md)
+[teaching](Teach.md)
 
-1. Ryu K, Nam Y, Gho S-M, et al. Data-driven synthetic MRI FLAIR artifact correction via deep neural network. Journal of Magnetic Resonance Imaging 2019 doi: 10.1002/jmri.26712.
-2. Shin H-G, Oh S-H, Fukunaga M, et al. Advances in gradient echo myelin water imaging at 3T and 7T. NeuroImage 2019;188:835–844 doi: 10.1016/j.neuroimage.2018.11.040.
-3. Ryu K, Shin N-Y, Kim D-H, Nam Y. Synthesizing T1 weighted MPRAGE image from multi echo GRE images via deep neural network. Magnetic Resonance Imaging 2019 doi: 10.1016/j.mri.2019.04.002.
-4. Lee JY, Choi Y, Ahn KJ, et al. Seed-Based Resting-State Functional MRI for Presurgical Localization of the Motor Cortex: A Task-Based Functional MRI-Determined Seed Versus an Anatomy-Determined Seed. Korean Journal of Radiology 2019;20:171–179 doi: 10.3348/kjr.2018.0004.
-5. Lee H, Nam Y, Kim D-H. Echo time-range effects on gradient-echo based myelin water fraction mapping at 3T. Magnetic Resonance in Medicine 2019;81:2799–2807 doi: 10.1002/mrm.27564.
-6. Lee D, Lee J, Ko J, Yoon J, Ryu K, Nam Y. Deep Learning in MR Image Processing. Investigative Magnetic Resonance Imaging 2019;23:81–99 doi: 10.13104/imri.2019.23.2.81.
-7. Jang J, Oh SH, Nam Y, et al. Prognostic value of phase information of 2D T2*-weighted gradient echo brain imaging in cardiac arrest survivors: A preliminary study. Resuscitation 2019;140:142–149 doi: 10.1016/j.resuscitation.2019.05.026.
-8. Choi Y, Jang J, Nam Y, et al. Relationship between Abnormal Hyperintensity on T2-Weighted Images Around Developmental Venous Anomalies and Magnetic Susceptibility of Their Collecting Veins: In-Vivo Quantitative Susceptibility Mapping Study. Korean Journal of Radiology 2019;20:662–670 doi: 10.3348/kjr.2018.0685.
-9. Choi Y, Hwang E-J, Nam Y, et al. Analysis of Apparent Diffusion Coefficients of the Brain in Healthy Controls: A Comparison Study between Single-Shot Echo-Planar Imaging and Read-out-Segmented Echo-Planar Imaging. Korean Journal of Radiology 2019;20:1138–1145 doi: 10.3348/kjr.2018.0899.
-10. Choi Y, Ahn K-J, Nam Y, et al. Analysis of heterogeneity of peritumoral T2 hyperintensity in patients with pretreatment glioblastoma: Prognostic value of MRI-based radiomics. European Journal of Radiology 2019;120:108642 doi: 10.1016/j.ejrad.2019.108642.
-11. Choi Y, Ahn KJ, Nam Y, et al. Analysis of peritumoral hyperintensity on pre-operative T2-weighted MR images in glioblastoma: Additive prognostic value of Minkowski functionals. PLOS ONE 2019;14:e0217785 doi: 10.1371/journal.pone.0217785.
-12. Choi JY, Lee J, Nam Y, Lee J, Oh S-H. Improvement of reproducibility in quantitative susceptibility mapping (QSM) and transverse relaxation rates () after physiological noise correction. Journal of Magnetic Resonance Imaging 2019;49:1769–1776 doi: 10.1002/jmri.26522.
-13. Sung YH, Lee J, Nam Y, et al. Initial diagnostic workup of parkinsonism: Dopamine transporter positron emission tomography versus susceptibility map-weighted imaging at 3T. Parkinsonism & Related Disorders 2018 doi: 10.1016/j.parkreldis.2018.12.019.
-14. Sung YH, Lee J, Nam Y, et al. Differential involvement of nigral subregions in idiopathic parkinson’s disease. Human Brain Mapping 2018;39:542–553 doi: 10.1002/hbm.23863.
-15. Nam Y, Jang J, Park SY, et al. Correlation-based perfusion mapping using time-resolved MR angiography: A feasibility study for patients with suspicions of steno-occlusive craniocervical arteries. Eur Radiol 2018;28:4890–4899 doi: 10.1007/s00330-018-5468-1.
-16. Lee S, Nam Y, Jang J, et al. Deep gray matter iron measurement in patients with liver cirrhosis using quantitative susceptibility mapping: Relationship with pallidal T1 hyperintensity. Journal of Magnetic Resonance Imaging 2018;47:1342–1349 doi: 10.1002/jmri.25841.
-17. Lee H, Nam Y, Lee H-J, Hsu J-J, Henry RG, Kim D-H. Improved three-dimensional multi-echo gradient echo based myelin water fraction mapping with phase related artifact correction. NeuroImage 2018;169:1–10 doi: 10.1016/j.neuroimage.2017.11.058.
-18. Lee H, Nam Y, Gho S-M, et al. Susceptibility Weighted Imaging of the Cervical Spinal Cord with Compensation of Respiratory-Induced Artifact. Investigative Magnetic Resonance Imaging 2018;22:209–217 doi: 10.13104/imri.2018.22.4.209.
-19. Lee D, Lee J, Lee J, Nam Y. Single-scan z-shim method for reducing susceptibility artifacts in gradient echo myelin water imaging. Magnetic Resonance in Medicine 2018;80:1101–1109 doi: 10.1002/mrm.27127.
-20. Kim Y, Kim SH, Lee HW, et al. Intravoxel incoherent motion diffusion-weighted MRI for predicting response to neoadjuvant chemotherapy in breast cancer. Magnetic Resonance Imaging 2018;48:27–33 doi: 10.1016/j.mri.2017.12.018.
-21. Kim EY, Sung YH, Shin H-G, Noh Y, Nam Y, Lee J. Diagnosis of Early-Stage Idiopathic Parkinson’s Disease Using High-Resolution Quantitative Susceptibility Mapping Combined with Histogram Analysis in the Substantia Nigra at 3 T. Journal of Clinical Neurology 2018;14:90–97 doi: 10.3988/jcn.2018.14.1.90.
-22. Jung W, Lee J, Shin H-G, et al. Whole brain g-ratio mapping using myelin water imaging (MWI) and neurite orientation dispersion and density imaging (NODDI). NeuroImage 2018;182:379–388 doi: 10.1016/j.neuroimage.2017.09.053.
-23. Park SH, Nam Y, Choi HS, Woo ST. Quantification of Gadolinium Concentration Using GRE and UTE Sequences. Investigative Magnetic Resonance Imaging 2017;21:171–176 doi: 10.13104/imri.2017.21.3.171.
-24. Nam Y, Hwang E, Jung J-Y. Measurement and Compensation of Respiration-Induced B0 Variations in Lumbar Spine Bone Marrow Fat Quantification. Investigative Magnetic Resonance Imaging 2017;21:28–33 doi: 10.13104/imri.2017.21.1.28.
-25. Nam Y, Gho S-M, Kim D-H, Kim EY, Lee J. Imaging of nigrosome 1 in substantia nigra at 3T using multiecho susceptibility map-weighted imaging (SMWI). Journal of Magnetic Resonance Imaging 2017;46:528–536 doi: 10.1002/jmri.25553.
-26. Lee J, Nam Y, Choi JY, Kim EY, Oh S-H, Kim D-H. Mechanisms of T2* anisotropy and gradient echo myelin water imaging. NMR in Biomedicine 2017;30:e3513 doi: 10.1002/nbm.3513.
-27. Lee J, Shin H-G, Jung W, Nam Y, Oh S-H, Lee J. An R2* model of white matter for fiber orientation and myelin concentration. NeuroImage 2017;162:269–275 doi: 10.1016/j.neuroimage.2017.08.050.
-28. Lee JY, Lee Y-J, Park DW, et al. Quantitative susceptibility mapping of the motor cortex: a comparison of susceptibility among patients with amyotrophic lateral sclerosis, cerebrovascular disease, and healthy controls. Neuroradiology 2017;59:1213–1222 doi: 10.1007/s00234-017-1933-9.
-29. Kim SH, Oh SN, Choi HS, et al. USPIO enhanced lymph node MRI using 3D multi-echo GRE in a rabbit model. Contrast Media & Molecular Imaging 2016;11:544–549 doi: 10.1002/cmmi.1716.
-30. Shin J, Kim MJ, Lee J, et al. Initial study on in vivo conductivity mapping of breast cancer using MRI. Journal of Magnetic Resonance Imaging 2015;42:371–378 doi: 10.1002/jmri.24803.
-31. Nam Y, Lee J, Hwang D, Kim D-H. Improved estimation of myelin water fraction using complex model fitting. NeuroImage 2015;116:214–221 doi: 10.1016/j.neuroimage.2015.03.081.
-32. Nam Y, Kim D-H, Lee J. Physiological noise compensation in gradient-echo myelin water imaging. NeuroImage 2015;120:345–349 doi: 10.1016/j.neuroimage.2015.07.014.
-33. Han D, Nam Y, Gho S-M, Kim D-H. Volumetric R2* mapping using z-shim multi-echo gradient echo imaging. Magnetic Resonance in Medicine 2015;73:1164–1170 doi: 10.1002/mrm.25206.
-34. Oh SS, Oh S-H, Nam Y, et al. Improved susceptibility weighted imaging method using multi-echo acquisition. Magnetic Resonance in Medicine 2014;72:452–458 doi: 10.1002/mrm.24940.
-35. Yang S, Nam Y, Kim M-O, Kim EY, Park J, Kim D-H. Computer-Aided Detection of Metastatic Brain Tumors Using Magnetic Resonance Black-Blood Imaging. Investigative Radiology 2013;48:113 doi: 10.1097/RLI.0b013e318277f078.
-36. Jang U, Nam Y, Kim D-H, Hwang D. Improvement of the SNR and resolution of susceptibility-weighted venography by model-based multi-echo denoising. NeuroImage 2013;70:308–316 doi: 10.1016/j.neuroimage.2012.12.067.
-37. Nam Y, Kim H, Zho S-Y, Kim D-H. Background Gradient Correction using Excitation Pulse Profile for Fat and T2* Quantification in 2D Multi-Slice Liver Imaging. Journal of the Korean Society of Magnetic Resonance in Medicine 2012;16:6–15 doi: 10.13104/jksmrm.2012.16.1.6.
-38. Nam Y, Han D, Kim D-H. Single-scan R2⁎ measurement with macroscopic field inhomogeneity correction. NeuroImage 2012;63:1790–1799 doi: 10.1016/j.neuroimage.2012.08.062.
-39. Nam Y, Kim EY, Kim D-H. On the use of a spin-echo based double inversion recovery acquisition for the measurement of cortical brain thickness. Journal of Magnetic Resonance Imaging 2011;33:1218–1223 doi: 10.1002/jmri.22536.
-40. Hwang D, Chung H, Nam Y, Du YP, Jang U. Robust mapping of the myelin water fraction in the presence of noise: Synergic combination of anisotropic diffusion filter and spatially regularized nonnegative least squares algorithm. Journal of Magnetic Resonance Imaging 2011;34:189–195 doi: 10.1002/jmri.22586.
-41. Gho S-M, Nam Y, Zho S-Y, Kim EY, Kim D-H. Three dimension double inversion recovery gray matter imaging using compressed sensing. Magnetic Resonance Imaging 2010;28:1395–1402 doi: 10.1016/j.mri.2010.06.029.
-42. Choi N, Nam Y, Kim D-H. Cortical Thickness Estimation Using DIR Imaging with GRAPPA Factor 2. Journal of the Korean Society of Magnetic Resonance in Medicine 2010;14:56–63 doi: 10.13104/jksmrm.2010.14.1.56.
+
+[google scholar](https://scholar.google.com/citations?hl=ko&user=UZcwGAoAAAAJ&view_op=list_works&sortby=pubdate)
+
