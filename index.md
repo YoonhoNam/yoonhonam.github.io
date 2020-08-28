@@ -1,5 +1,5 @@
 ## Yoonho Nam, PhD
-- yoonhonam@hufs.ac.kr
+- [yoonhonam@hufs.ac.kr](mailto:yoonhonam@hufs.ac.kr)
 - I am an Assistant Professor at Division of Biomedical Engineering, Hankuk University of Foreign Studies, Korea.
 - [Lab homepage](https://hufsaim.github.io/)
 
