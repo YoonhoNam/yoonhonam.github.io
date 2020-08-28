@@ -1,9 +1,7 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 
 relative_links:
   enabled: true
   collections: true
 include:
   - index.md
-  - README.md
-  - PUBLICATIONS.md
